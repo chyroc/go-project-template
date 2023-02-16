@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/stretchr/testify v1.8.1
-	github.com/urfave/cli/v2 v2.24.1
+	github.com/urfave/cli/v2 v2.24.4
 )
 
 require (
